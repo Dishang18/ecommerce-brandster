@@ -1,0 +1,19 @@
+/* General styles for the body */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Headline or title styles */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Specific class for using Calibri */
+.calibri-text {
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* Specific class for using Verdana */
+.verdana-text {
+    font-family: Verdana, Geneva, sans-serif;
+}
